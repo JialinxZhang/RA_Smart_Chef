@@ -1,0 +1,8 @@
+{
+  "name": "RA集团 Smart Chef AI",
+  "description": "An intelligent culinary assistant by RA Group that generates recipes from ingredients, offers real-time voice cooking guidance, AI image editing for food styling, and video generation for recipes.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
